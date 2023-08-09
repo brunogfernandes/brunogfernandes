@@ -2,7 +2,7 @@
 <h4 align="center">A fullstack dev and compsci student.</h4>
 
 - 🔭 I’m currently finishing my degree, working on projects with Node.js and Angular/React.
-- 🌱 I’m currently learning Spring and Docker/Kubernetes.
+- 🌱 I’m currently learning Next.js and Docker/Kubernetes.
 - 💻 IT Student since 2016.
 - 🐧 Linux user and enthusiast.
 - 📫 Reach me: [in/brunogfrnds](https://linkedin.com/in/brunogfrnds) / fernandes.bruno@aluno.ifsp.edu.br
