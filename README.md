@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Bruno!</h2>
-<h4 align="center">A fullstack dev and compsci student.</h4>
+<h4 align="center">I am a Full Stack Developer.</h4>
 
-- 🔭 I’m currently finishing my degree, working on projects with Node.js and Angular/React.
-- 🌱 I’m currently learning Next.js and Docker/Kubernetes.
-- 💻 IT Student since 2016.
+- 🔭 I’m currently working on projects with .NET and Angular.
+- 🌱 I’m currently studying MCP.
+- 💻 IT Technician and Computer Science Bachelor @ Federal Institute of São Paulo (IFSP).
 - 🐧 Linux user and enthusiast.
-- 📫 Reach me: [in/brunogfrnds](https://linkedin.com/in/brunogfrnds) / fernandes.bruno@aluno.ifsp.edu.br
+- 📫 Reach me: [in/brunogfrnds](https://linkedin.com/in/brunogfrnds) / brunoiceez@gmail.com
 
 <h3> 🛠️ Languages and Tools </h3>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -14,13 +14,4 @@
 <img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="left" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-
-<br/>
-<br/>
-
-<div>
-  <a href="https://github.com/brunogfernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogfernandes&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogfernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<img align="left" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
